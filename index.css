@@ -1,0 +1,102 @@
+
+
+body {
+    text-align: center;
+}
+
+nav {
+    position: fixed;
+    text-align: center;
+    top: 5px;
+    background-color: rgb(153, 112, 103);
+    height: 30px;
+    width: 100%;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 600px;
+}
+
+.second {
+    background-color: rgb(50, 50, 50);
+    height: 80px;
+    width: 100%;
+}
+
+.cart {
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 1730px;
+    display: inline-block;
+    border-style: outset;
+    background-color: aqua;
+
+}
+
+
+.button {
+    margin-top: 40px;
+    margin-left: 1800px;
+    display: inline-block;
+    border-style: outset;
+    background-color: aqua;
+}
+
+a {
+    color:rgb(170, 197, 155);
+}
+
+a:hover {
+    color: rgb(50, 50, 50);
+    background-color:rgba(246, 153, 153, 20%);
+}
+
+textarea {
+    position: absolute;
+    margin: 40px 80px 10px;
+    height: 14px;
+    width: 400px;
+    color: rgba(127, 127, 127, 50%);
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 5px;
+}
+
+
+.logo {
+    display: inline-block;
+    width: 160px;
+    margin: 0 auto;
+    text-align: center;
+    border-top: 150px;
+
+}
+
+main {
+    background-image: url(./Images/frontimg.png);
+    background-size: 1400px 700px;
+    background-repeat: no-repeat;
+    background-color: rgb(153, 112, 103);
+    height: 700px;
+    width: 100%;
+}
+
+.ab {
+    position: relative;
+    background-color: rgb(50, 50, 50);
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    color: khaki;
+    height: 700px;
+    width: 500px;
+    margin: 0px 0px 0px 1400px;
+}
+
+h3 {
+    height: 400px;
+    width: 100%;
+    background-color: blueviolet;
+}
